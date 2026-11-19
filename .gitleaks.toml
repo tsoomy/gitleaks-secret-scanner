@@ -12,5 +12,5 @@ secretGroup = 1
  [[rules]]
 id = "classroom-demo-code"
 description = "Classroom demo code"
-path = '''(^|/)config\\.py$'''
+path = '''(^|/)config\.py$'''
 regex = '''\bLAB-DEMO-[0-9]{6}\b'''
